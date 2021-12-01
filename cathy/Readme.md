@@ -1,0 +1,1 @@
+This is the final project by Aimee LeCours for Fundementals of Interactive Design, December 2021. Aimee created her own site using CSS. 
